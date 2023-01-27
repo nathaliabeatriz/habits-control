@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a controlar os hábitos diários.
 
-- [Visite o projeto online](nathaliabeatriz.github.io/Cineweb/)
+- [Visite o projeto online](nathaliabeatriz.github.io/habits-control/)
 
 ## 🔖 Layout
 
