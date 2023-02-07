@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Habits 📋</h1>
 
 <p align="center">
 Projeto criado durante a participação no evento NLW promovido pela Rocketseat <br/>
